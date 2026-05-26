@@ -26,7 +26,7 @@ React patterns · Design systems · Accessibility (WCAG 2.2)
 
 ### Spoken languages
 
-German (native) · English (professional)
+Russian (native) · German (pro) · English (basics)
 
 ---
 
