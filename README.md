@@ -21,4 +21,4 @@ React · Design systems · Accessibility (WCAG 2.2)
 ---
 
 **Find me**
-[contact@dieter-foos.de](mailto:contact@dieter-foos.de) · [LinkedIn](https://www.linkedin.com/in/dieter-foos-7a13a63ba/) · [dieter-foos.de](https://dieter-foos.de)
+[mail@dieter-foos.de](mailto:mail@dieter-foos.de) · [LinkedIn](https://www.linkedin.com/in/dieter-foos-7a13a63ba/) · [dieter-foos.de](https://dieter-foos.de)
