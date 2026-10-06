@@ -28,17 +28,6 @@ React · Design systems · Accessibility (WCAG 2.2)
 
 ---
 
-**Projects**
-
-| Projekt | Worum es geht | Live |
-|---|---|---|
-| [Join V2 AI](https://github.com/dfo81/Join_V2_Ai) | Kanban-Board mit KI-Ticketing: Feature-Requests per E-Mail werden über n8n und Claude automatisch zu Tickets | [joinai.dieter-foos.de](https://joinai.dieter-foos.de) |
-| [Portfolio](https://github.com/dfo81/portfolio) | Zweisprachige SPA, Vanilla JS, Tailwind v4 | [dieter-foos.de](https://dieter-foos.de) |
-
-→ Mehr in den gepinnten Repos unten
-
----
-
 **GitHub Stats**
 
 <p>
