@@ -36,7 +36,7 @@ React · Design systems · Accessibility (WCAG 2.2)
   <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=dfo81&hide_border=true&theme=transparent" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=dfo81&hide_border=true&theme=transparent&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 
 ---
 
