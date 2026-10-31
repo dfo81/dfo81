@@ -32,8 +32,8 @@ React · Design systems · Accessibility (WCAG 2.2)
 **GitHub Stats**
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dfo81&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfo81&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top Languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=dfo81&hide_border=true&theme=transparent" alt="GitHub Streak" />
